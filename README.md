@@ -6,3 +6,4 @@ its developed using React js and css
 
 Next Feature:
 100 MB size restriction.
+Separate download page
